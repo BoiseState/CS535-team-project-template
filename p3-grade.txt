@@ -1,0 +1,22 @@
+Team Name:
+
+Student 1 Name:
+Student 2 Name:
+
+Grade:   /300
+
+Late penalty:
+
+Comments:
+
+Testing:
+	-Submission layout:
+	-Build:
+	-Functional Requirements (120 points):
+
+	-Performance on 8-node (or larger) cluster (40 points):
+
+
+Documentation (40 points):
+	-README.md file:
+	-Code organization & style:
