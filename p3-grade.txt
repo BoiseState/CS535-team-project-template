@@ -11,12 +11,16 @@ Comments:
 
 Testing:
 	-Submission layout:
-	-Build:
-	-Functional Requirements (120 points):
+		-The repository only contains required files and small data sets:
+	-Functional Requirements:
+		-Quality of small data set (provided as proof of correctness) (60 points):
+		-How did the team assess the correctness of the results (60 points):
+		-Code runs and produces appropriate results (120 points):
 
-	-Performance on 8-node (or larger) cluster (40 points):
+Design & documentation (60 points):
+	-README.md file (50 points):
+		-Is the approach to solving the data science problem explained sufficiently? (20 points):
+		-Is the contribution from each team member clearly identified? (10 points):
+		-Are results documented appropriately? (20 points):
+	-Code organization & style (10 points):
 
-
-Documentation (40 points):
-	-README.md file:
-	-Code organization & style:
